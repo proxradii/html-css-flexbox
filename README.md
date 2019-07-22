@@ -1,6 +1,6 @@
 # html-css-flexbox excercise
-A single web page written with <b>HTML, CSS and Flexbox</b>. It was mainly an exercise to help me learn new technologies like Flexbox 
-and to review older ones like HTML and CSS. 
+A single web page written with <b>HTML, CSS and Flexbox</b>. It was mainly an exercise to aid me in learning new technologies like Flexbox 
+and to review some of the older ones like HTML and CSS.
 
 <b>Things I learned while doing this excercise were: </b>
 
