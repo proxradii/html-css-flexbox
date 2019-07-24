@@ -79,15 +79,12 @@ h2 {
 .menu_one {
   display: flex;
   align-items: center;
-  /*flex: 1; ???? */
+  border: 1px solid black;
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: auto;
-  /* this is the same as: flex: 1; */
-  /* flex-grow: 1;
-  flex-shrink: 1;
-  flex-basis: auto; */
-  border: 1px solid black;
+  /* Or use flex: 1; */
+ 
 }
 
 .menu_politics_link {
